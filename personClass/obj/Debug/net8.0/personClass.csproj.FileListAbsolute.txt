@@ -1,0 +1,14 @@
+C:\Users\17637\Documents\csharpprojects\personClass\bin\Debug\net8.0\personClass.exe
+C:\Users\17637\Documents\csharpprojects\personClass\bin\Debug\net8.0\personClass.deps.json
+C:\Users\17637\Documents\csharpprojects\personClass\bin\Debug\net8.0\personClass.runtimeconfig.json
+C:\Users\17637\Documents\csharpprojects\personClass\bin\Debug\net8.0\personClass.dll
+C:\Users\17637\Documents\csharpprojects\personClass\bin\Debug\net8.0\personClass.pdb
+C:\Users\17637\Documents\csharpprojects\personClass\obj\Debug\net8.0\personClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17637\Documents\csharpprojects\personClass\obj\Debug\net8.0\personClass.AssemblyInfoInputs.cache
+C:\Users\17637\Documents\csharpprojects\personClass\obj\Debug\net8.0\personClass.AssemblyInfo.cs
+C:\Users\17637\Documents\csharpprojects\personClass\obj\Debug\net8.0\personClass.csproj.CoreCompileInputs.cache
+C:\Users\17637\Documents\csharpprojects\personClass\obj\Debug\net8.0\personClass.dll
+C:\Users\17637\Documents\csharpprojects\personClass\obj\Debug\net8.0\refint\personClass.dll
+C:\Users\17637\Documents\csharpprojects\personClass\obj\Debug\net8.0\personClass.pdb
+C:\Users\17637\Documents\csharpprojects\personClass\obj\Debug\net8.0\personClass.genruntimeconfig.cache
+C:\Users\17637\Documents\csharpprojects\personClass\obj\Debug\net8.0\ref\personClass.dll
