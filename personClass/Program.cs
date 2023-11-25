@@ -52,7 +52,7 @@ namespace personClass{
         Person p1 = new Person("Sally");
         Console.WriteLine(p1.Name);
         Student s1 = new Student("Sam","Biology");
-        Console.WriteLine("{0} {1}", s1.Major, s1.ID);
+        Console.WriteLine("{0} {1} {2}", s1.Name, s1.Major, s1.ID);
         Console.ReadKey();
     }
         
