@@ -36,7 +36,7 @@ namespace personClass{
 
         public Student(string _name, string _major) : base( _name)
         {
-            string major = _major;
+            major = _major;
             if (_major == "Biology"){
                 bioMajors += 1;
             }
@@ -52,7 +52,7 @@ namespace personClass{
         Person p1 = new Person("Sally");
         Console.WriteLine(p1.Name);
         Student s1 = new Student("Sam","Biology");
-        Console.WriteLine(s1.Major + s1.ID);
+        Console.WriteLine("{0} {1}", s1.Major, s1.ID);
         Console.ReadKey();
     }
         
