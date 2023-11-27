@@ -1,0 +1,14 @@
+C:\Users\17637\Documents\csharpprojects\nameIdDictionary\bin\Debug\net8.0\nameIdDictionary.exe
+C:\Users\17637\Documents\csharpprojects\nameIdDictionary\bin\Debug\net8.0\nameIdDictionary.deps.json
+C:\Users\17637\Documents\csharpprojects\nameIdDictionary\bin\Debug\net8.0\nameIdDictionary.runtimeconfig.json
+C:\Users\17637\Documents\csharpprojects\nameIdDictionary\bin\Debug\net8.0\nameIdDictionary.dll
+C:\Users\17637\Documents\csharpprojects\nameIdDictionary\bin\Debug\net8.0\nameIdDictionary.pdb
+C:\Users\17637\Documents\csharpprojects\nameIdDictionary\obj\Debug\net8.0\nameIdDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17637\Documents\csharpprojects\nameIdDictionary\obj\Debug\net8.0\nameIdDictionary.AssemblyInfoInputs.cache
+C:\Users\17637\Documents\csharpprojects\nameIdDictionary\obj\Debug\net8.0\nameIdDictionary.AssemblyInfo.cs
+C:\Users\17637\Documents\csharpprojects\nameIdDictionary\obj\Debug\net8.0\nameIdDictionary.csproj.CoreCompileInputs.cache
+C:\Users\17637\Documents\csharpprojects\nameIdDictionary\obj\Debug\net8.0\nameIdDictionary.dll
+C:\Users\17637\Documents\csharpprojects\nameIdDictionary\obj\Debug\net8.0\refint\nameIdDictionary.dll
+C:\Users\17637\Documents\csharpprojects\nameIdDictionary\obj\Debug\net8.0\nameIdDictionary.pdb
+C:\Users\17637\Documents\csharpprojects\nameIdDictionary\obj\Debug\net8.0\nameIdDictionary.genruntimeconfig.cache
+C:\Users\17637\Documents\csharpprojects\nameIdDictionary\obj\Debug\net8.0\ref\nameIdDictionary.dll
