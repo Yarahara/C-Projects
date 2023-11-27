@@ -8,7 +8,7 @@ namespace nameIdDictionary{
     class Program{
         
         public static void Main(string[] args)
-        {/*
+        {
             //1
             Dictionary<string, string> empDict= new();
             Console.WriteLine("Enter ID and name: ");
@@ -76,7 +76,7 @@ namespace nameIdDictionary{
             {
                 Console.WriteLine($"{key}\t{value}");
             }
-*/
+
             //-----------------list----------------
             //1
             List<string> empList = new List<string>();
