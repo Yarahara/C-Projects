@@ -1,0 +1,14 @@
+C:\Users\17637\Documents\csharpprojects\handleMenu\obj\Debug\net8.0\handleMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17637\Documents\csharpprojects\handleMenu\obj\Debug\net8.0\handleMenu.AssemblyInfoInputs.cache
+C:\Users\17637\Documents\csharpprojects\handleMenu\obj\Debug\net8.0\handleMenu.AssemblyInfo.cs
+C:\Users\17637\Documents\csharpprojects\handleMenu\obj\Debug\net8.0\handleMenu.csproj.CoreCompileInputs.cache
+C:\Users\17637\Documents\csharpprojects\handleMenu\bin\Debug\net8.0\handleMenu.exe
+C:\Users\17637\Documents\csharpprojects\handleMenu\bin\Debug\net8.0\handleMenu.deps.json
+C:\Users\17637\Documents\csharpprojects\handleMenu\bin\Debug\net8.0\handleMenu.runtimeconfig.json
+C:\Users\17637\Documents\csharpprojects\handleMenu\bin\Debug\net8.0\handleMenu.dll
+C:\Users\17637\Documents\csharpprojects\handleMenu\bin\Debug\net8.0\handleMenu.pdb
+C:\Users\17637\Documents\csharpprojects\handleMenu\obj\Debug\net8.0\handleMenu.dll
+C:\Users\17637\Documents\csharpprojects\handleMenu\obj\Debug\net8.0\refint\handleMenu.dll
+C:\Users\17637\Documents\csharpprojects\handleMenu\obj\Debug\net8.0\handleMenu.pdb
+C:\Users\17637\Documents\csharpprojects\handleMenu\obj\Debug\net8.0\handleMenu.genruntimeconfig.cache
+C:\Users\17637\Documents\csharpprojects\handleMenu\obj\Debug\net8.0\ref\handleMenu.dll

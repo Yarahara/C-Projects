@@ -1,0 +1,14 @@
+C:\Users\17637\Documents\csharpprojects\showGrade\obj\Debug\net8.0\showGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17637\Documents\csharpprojects\showGrade\obj\Debug\net8.0\showGrade.AssemblyInfoInputs.cache
+C:\Users\17637\Documents\csharpprojects\showGrade\obj\Debug\net8.0\showGrade.AssemblyInfo.cs
+C:\Users\17637\Documents\csharpprojects\showGrade\obj\Debug\net8.0\showGrade.csproj.CoreCompileInputs.cache
+C:\Users\17637\Documents\csharpprojects\showGrade\bin\Debug\net8.0\showGrade.exe
+C:\Users\17637\Documents\csharpprojects\showGrade\bin\Debug\net8.0\showGrade.deps.json
+C:\Users\17637\Documents\csharpprojects\showGrade\bin\Debug\net8.0\showGrade.runtimeconfig.json
+C:\Users\17637\Documents\csharpprojects\showGrade\bin\Debug\net8.0\showGrade.dll
+C:\Users\17637\Documents\csharpprojects\showGrade\bin\Debug\net8.0\showGrade.pdb
+C:\Users\17637\Documents\csharpprojects\showGrade\obj\Debug\net8.0\showGrade.dll
+C:\Users\17637\Documents\csharpprojects\showGrade\obj\Debug\net8.0\refint\showGrade.dll
+C:\Users\17637\Documents\csharpprojects\showGrade\obj\Debug\net8.0\showGrade.pdb
+C:\Users\17637\Documents\csharpprojects\showGrade\obj\Debug\net8.0\showGrade.genruntimeconfig.cache
+C:\Users\17637\Documents\csharpprojects\showGrade\obj\Debug\net8.0\ref\showGrade.dll
