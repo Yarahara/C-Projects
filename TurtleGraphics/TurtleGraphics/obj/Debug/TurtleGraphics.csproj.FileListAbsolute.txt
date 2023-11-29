@@ -1,0 +1,12 @@
+C:\Users\17637\Documents\csharpprojects\TurtleGraphics\TurtleGraphics\bin\Debug\TurtleGraphics.exe.config
+C:\Users\17637\Documents\csharpprojects\TurtleGraphics\TurtleGraphics\bin\Debug\TurtleGraphics.exe
+C:\Users\17637\Documents\csharpprojects\TurtleGraphics\TurtleGraphics\bin\Debug\TurtleGraphics.pdb
+C:\Users\17637\Documents\csharpprojects\TurtleGraphics\TurtleGraphics\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\17637\Documents\csharpprojects\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.AssemblyReference.cache
+C:\Users\17637\Documents\csharpprojects\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.Form1.resources
+C:\Users\17637\Documents\csharpprojects\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.Properties.Resources.resources
+C:\Users\17637\Documents\csharpprojects\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.GenerateResource.cache
+C:\Users\17637\Documents\csharpprojects\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.CoreCompileInputs.cache
+C:\Users\17637\Documents\csharpprojects\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.CopyComplete
+C:\Users\17637\Documents\csharpprojects\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.exe
+C:\Users\17637\Documents\csharpprojects\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.pdb
