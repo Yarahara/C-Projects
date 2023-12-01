@@ -1,0 +1,14 @@
+C:\Users\17637\Documents\csharpprojects\numberPattern3\bin\Debug\net8.0\numberPattern3.exe
+C:\Users\17637\Documents\csharpprojects\numberPattern3\bin\Debug\net8.0\numberPattern3.deps.json
+C:\Users\17637\Documents\csharpprojects\numberPattern3\bin\Debug\net8.0\numberPattern3.runtimeconfig.json
+C:\Users\17637\Documents\csharpprojects\numberPattern3\bin\Debug\net8.0\numberPattern3.dll
+C:\Users\17637\Documents\csharpprojects\numberPattern3\bin\Debug\net8.0\numberPattern3.pdb
+C:\Users\17637\Documents\csharpprojects\numberPattern3\obj\Debug\net8.0\numberPattern3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17637\Documents\csharpprojects\numberPattern3\obj\Debug\net8.0\numberPattern3.AssemblyInfoInputs.cache
+C:\Users\17637\Documents\csharpprojects\numberPattern3\obj\Debug\net8.0\numberPattern3.AssemblyInfo.cs
+C:\Users\17637\Documents\csharpprojects\numberPattern3\obj\Debug\net8.0\numberPattern3.csproj.CoreCompileInputs.cache
+C:\Users\17637\Documents\csharpprojects\numberPattern3\obj\Debug\net8.0\numberPattern3.dll
+C:\Users\17637\Documents\csharpprojects\numberPattern3\obj\Debug\net8.0\refint\numberPattern3.dll
+C:\Users\17637\Documents\csharpprojects\numberPattern3\obj\Debug\net8.0\numberPattern3.pdb
+C:\Users\17637\Documents\csharpprojects\numberPattern3\obj\Debug\net8.0\numberPattern3.genruntimeconfig.cache
+C:\Users\17637\Documents\csharpprojects\numberPattern3\obj\Debug\net8.0\ref\numberPattern3.dll
