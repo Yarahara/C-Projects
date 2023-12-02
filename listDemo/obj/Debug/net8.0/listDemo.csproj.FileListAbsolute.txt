@@ -1,0 +1,14 @@
+C:\Users\17637\Documents\csharpprojects\listDemo\bin\Debug\net8.0\listDemo.exe
+C:\Users\17637\Documents\csharpprojects\listDemo\bin\Debug\net8.0\listDemo.deps.json
+C:\Users\17637\Documents\csharpprojects\listDemo\bin\Debug\net8.0\listDemo.runtimeconfig.json
+C:\Users\17637\Documents\csharpprojects\listDemo\bin\Debug\net8.0\listDemo.dll
+C:\Users\17637\Documents\csharpprojects\listDemo\bin\Debug\net8.0\listDemo.pdb
+C:\Users\17637\Documents\csharpprojects\listDemo\obj\Debug\net8.0\listDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17637\Documents\csharpprojects\listDemo\obj\Debug\net8.0\listDemo.AssemblyInfoInputs.cache
+C:\Users\17637\Documents\csharpprojects\listDemo\obj\Debug\net8.0\listDemo.AssemblyInfo.cs
+C:\Users\17637\Documents\csharpprojects\listDemo\obj\Debug\net8.0\listDemo.csproj.CoreCompileInputs.cache
+C:\Users\17637\Documents\csharpprojects\listDemo\obj\Debug\net8.0\listDemo.dll
+C:\Users\17637\Documents\csharpprojects\listDemo\obj\Debug\net8.0\refint\listDemo.dll
+C:\Users\17637\Documents\csharpprojects\listDemo\obj\Debug\net8.0\listDemo.pdb
+C:\Users\17637\Documents\csharpprojects\listDemo\obj\Debug\net8.0\listDemo.genruntimeconfig.cache
+C:\Users\17637\Documents\csharpprojects\listDemo\obj\Debug\net8.0\ref\listDemo.dll
