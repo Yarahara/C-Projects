@@ -1,0 +1,14 @@
+C:\Users\17637\Documents\csharpprojects\miles2km\bin\Debug\net8.0\miles2km.exe
+C:\Users\17637\Documents\csharpprojects\miles2km\bin\Debug\net8.0\miles2km.deps.json
+C:\Users\17637\Documents\csharpprojects\miles2km\bin\Debug\net8.0\miles2km.runtimeconfig.json
+C:\Users\17637\Documents\csharpprojects\miles2km\bin\Debug\net8.0\miles2km.dll
+C:\Users\17637\Documents\csharpprojects\miles2km\bin\Debug\net8.0\miles2km.pdb
+C:\Users\17637\Documents\csharpprojects\miles2km\obj\Debug\net8.0\miles2km.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17637\Documents\csharpprojects\miles2km\obj\Debug\net8.0\miles2km.AssemblyInfoInputs.cache
+C:\Users\17637\Documents\csharpprojects\miles2km\obj\Debug\net8.0\miles2km.AssemblyInfo.cs
+C:\Users\17637\Documents\csharpprojects\miles2km\obj\Debug\net8.0\miles2km.csproj.CoreCompileInputs.cache
+C:\Users\17637\Documents\csharpprojects\miles2km\obj\Debug\net8.0\miles2km.dll
+C:\Users\17637\Documents\csharpprojects\miles2km\obj\Debug\net8.0\refint\miles2km.dll
+C:\Users\17637\Documents\csharpprojects\miles2km\obj\Debug\net8.0\miles2km.pdb
+C:\Users\17637\Documents\csharpprojects\miles2km\obj\Debug\net8.0\miles2km.genruntimeconfig.cache
+C:\Users\17637\Documents\csharpprojects\miles2km\obj\Debug\net8.0\ref\miles2km.dll

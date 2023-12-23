@@ -1,0 +1,14 @@
+C:\Users\17637\Documents\csharpprojects\in2cm\bin\Debug\net8.0\in2cm.exe
+C:\Users\17637\Documents\csharpprojects\in2cm\bin\Debug\net8.0\in2cm.deps.json
+C:\Users\17637\Documents\csharpprojects\in2cm\bin\Debug\net8.0\in2cm.runtimeconfig.json
+C:\Users\17637\Documents\csharpprojects\in2cm\bin\Debug\net8.0\in2cm.dll
+C:\Users\17637\Documents\csharpprojects\in2cm\bin\Debug\net8.0\in2cm.pdb
+C:\Users\17637\Documents\csharpprojects\in2cm\obj\Debug\net8.0\in2cm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17637\Documents\csharpprojects\in2cm\obj\Debug\net8.0\in2cm.AssemblyInfoInputs.cache
+C:\Users\17637\Documents\csharpprojects\in2cm\obj\Debug\net8.0\in2cm.AssemblyInfo.cs
+C:\Users\17637\Documents\csharpprojects\in2cm\obj\Debug\net8.0\in2cm.csproj.CoreCompileInputs.cache
+C:\Users\17637\Documents\csharpprojects\in2cm\obj\Debug\net8.0\in2cm.dll
+C:\Users\17637\Documents\csharpprojects\in2cm\obj\Debug\net8.0\refint\in2cm.dll
+C:\Users\17637\Documents\csharpprojects\in2cm\obj\Debug\net8.0\in2cm.pdb
+C:\Users\17637\Documents\csharpprojects\in2cm\obj\Debug\net8.0\in2cm.genruntimeconfig.cache
+C:\Users\17637\Documents\csharpprojects\in2cm\obj\Debug\net8.0\ref\in2cm.dll
