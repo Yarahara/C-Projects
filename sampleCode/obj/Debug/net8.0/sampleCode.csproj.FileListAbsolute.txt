@@ -1,0 +1,14 @@
+C:\Users\17637\Documents\csharpprojects\sampleCode\bin\Debug\net8.0\sampleCode.exe
+C:\Users\17637\Documents\csharpprojects\sampleCode\bin\Debug\net8.0\sampleCode.deps.json
+C:\Users\17637\Documents\csharpprojects\sampleCode\bin\Debug\net8.0\sampleCode.runtimeconfig.json
+C:\Users\17637\Documents\csharpprojects\sampleCode\bin\Debug\net8.0\sampleCode.dll
+C:\Users\17637\Documents\csharpprojects\sampleCode\bin\Debug\net8.0\sampleCode.pdb
+C:\Users\17637\Documents\csharpprojects\sampleCode\obj\Debug\net8.0\sampleCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17637\Documents\csharpprojects\sampleCode\obj\Debug\net8.0\sampleCode.AssemblyInfoInputs.cache
+C:\Users\17637\Documents\csharpprojects\sampleCode\obj\Debug\net8.0\sampleCode.AssemblyInfo.cs
+C:\Users\17637\Documents\csharpprojects\sampleCode\obj\Debug\net8.0\sampleCode.csproj.CoreCompileInputs.cache
+C:\Users\17637\Documents\csharpprojects\sampleCode\obj\Debug\net8.0\sampleCode.dll
+C:\Users\17637\Documents\csharpprojects\sampleCode\obj\Debug\net8.0\refint\sampleCode.dll
+C:\Users\17637\Documents\csharpprojects\sampleCode\obj\Debug\net8.0\sampleCode.pdb
+C:\Users\17637\Documents\csharpprojects\sampleCode\obj\Debug\net8.0\sampleCode.genruntimeconfig.cache
+C:\Users\17637\Documents\csharpprojects\sampleCode\obj\Debug\net8.0\ref\sampleCode.dll
