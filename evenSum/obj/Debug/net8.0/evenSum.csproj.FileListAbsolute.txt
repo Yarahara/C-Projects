@@ -1,0 +1,14 @@
+c:\Users\17637\Documents\csharpprojects\evenSum\bin\Debug\net8.0\evenSum.exe
+c:\Users\17637\Documents\csharpprojects\evenSum\bin\Debug\net8.0\evenSum.deps.json
+c:\Users\17637\Documents\csharpprojects\evenSum\bin\Debug\net8.0\evenSum.runtimeconfig.json
+c:\Users\17637\Documents\csharpprojects\evenSum\bin\Debug\net8.0\evenSum.dll
+c:\Users\17637\Documents\csharpprojects\evenSum\bin\Debug\net8.0\evenSum.pdb
+c:\Users\17637\Documents\csharpprojects\evenSum\obj\Debug\net8.0\evenSum.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\17637\Documents\csharpprojects\evenSum\obj\Debug\net8.0\evenSum.AssemblyInfoInputs.cache
+c:\Users\17637\Documents\csharpprojects\evenSum\obj\Debug\net8.0\evenSum.AssemblyInfo.cs
+c:\Users\17637\Documents\csharpprojects\evenSum\obj\Debug\net8.0\evenSum.csproj.CoreCompileInputs.cache
+c:\Users\17637\Documents\csharpprojects\evenSum\obj\Debug\net8.0\evenSum.dll
+c:\Users\17637\Documents\csharpprojects\evenSum\obj\Debug\net8.0\refint\evenSum.dll
+c:\Users\17637\Documents\csharpprojects\evenSum\obj\Debug\net8.0\evenSum.pdb
+c:\Users\17637\Documents\csharpprojects\evenSum\obj\Debug\net8.0\evenSum.genruntimeconfig.cache
+c:\Users\17637\Documents\csharpprojects\evenSum\obj\Debug\net8.0\ref\evenSum.dll
